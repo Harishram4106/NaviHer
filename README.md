@@ -25,17 +25,19 @@
 
 ## 📱 App Preview
 
-| Splash & Branding | Onboarding | Home Dashboard |
-|:---:|:---:|:---:|
-| <img src="screenshots/screen_01_splash.png" width="260" alt="Splash Screen" /> | <img src="screenshots/screen_02_onboarding.png" width="260" alt="Onboarding" /> | <img src="screenshots/screen_03_home.png" width="260" alt="Home Dashboard" /> |
+> All screenshots are from a real Android device.
 
-| Route Search & Context | Active Navigation | Safety Corridor & Safe Places |
+| Splash | Onboarding | Home Dashboard |
 |:---:|:---:|:---:|
-| <img src="screenshots/screen_04_nav_search.png" width="260" alt="Navigation Search" /> | <img src="screenshots/screen_06_navigation_active.png" width="260" alt="Active Navigation" /> | <img src="screenshots/screen_07_safety_corridor.png" width="260" alt="Safety Corridor" /> |
+| <img src="screenshots/device_01_splash.png" width="220" alt="Splash Screen" /> | <img src="screenshots/device_02_onboarding.png" width="220" alt="Onboarding" /> | <img src="screenshots/device_03_home.png" width="220" alt="Home Dashboard" /> |
 
-| Incident Reporting | Category Chips | Community Feedback |
+| Plan Your Journey | Safety Corridor | Report an Incident |
 |:---:|:---:|:---:|
-| <img src="screenshots/screen_08_report.png" width="260" alt="Incident Reporting" /> | <img src="screenshots/screen_08_report_tabs_scrolled.png" width="260" alt="Report Categories" /> | <img src="screenshots/screen_08_report_scrolled.png" width="260" alt="Incident Form" /> |
+| <img src="screenshots/device_04_plan_journey.png" width="220" alt="Plan Journey" /> | <img src="screenshots/device_05_safety_corridor.png" width="220" alt="Safety Corridor" /> | <img src="screenshots/device_06_report_incident.png" width="220" alt="Report an Incident" /> |
+
+| Profile & Stats | | |
+|:---:|:---:|:---:|
+| <img src="screenshots/device_07_profile.png" width="220" alt="Profile" /> | | |
 
 ---
 
