@@ -176,7 +176,7 @@ NaviHer/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/your-username/NaviHer.git
+git clone https://github.com/<your-username>/NaviHer.git
 cd NaviHer
 
 # Fetch Flutter dependencies
@@ -241,7 +241,7 @@ flutter build apk --release
 Contributions, feedback, and discussions are welcome! Please check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
 1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+2. Create your feature branch: `git checkout -b feature/amazing-feature`
 3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
