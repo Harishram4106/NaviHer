@@ -1,0 +1,15 @@
+# NaviHer AI — dart_test.yaml
+#
+# Configures the default test run to exclude live backend tests.
+# Live backend tests require Supabase credentials and are tagged with @Tags(['live']).
+#
+# Default run (flutter test):
+#   Runs all local/mock tests, excludes live backend tests.
+#
+# Live backend run (flutter test --tags live):
+#   Runs only live backend tests — requires TEST_EMAIL_A, TEST_EMAIL_B,
+#   TEST_PASSWORD in the environment and a connected Supabase project.
+#
+tags:
+  live:
+    skip: "Live Supabase backend tests are excluded from the default test run. Run with --tags live and Supabase credentials to execute."

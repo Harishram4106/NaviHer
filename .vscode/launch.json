@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "NaviHer (Supabase)",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define-from-file",
+        ".env"
+      ]
+    },
+    {
+      "name": "NaviHer (Mock)",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}

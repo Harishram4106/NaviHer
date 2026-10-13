@@ -1,0 +1,87 @@
+# ==============================================================================
+# Flutter / Dart
+# ==============================================================================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# ==============================================================================
+# Android
+# ==============================================================================
+**/android/.gradle/
+**/android/.kotlin/
+**/android/local.properties
+**/android/key.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/captures/
+**/android/.cxx/
+**/GeneratedPluginRegistrant.java
+*.keystore
+*.jks
+*.apk
+*.aab
+
+# ==============================================================================
+# iOS / macOS
+# ==============================================================================
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/profile
+**/ios/**/default.mode1v3
+**/ios/**/default.pbxuser
+**/ios/**/xcuserdata/
+**/ios/**/DerivedData/
+**/ios/**/Pods.xcodeproj/
+**/ios/**/.generated/
+**/ios/Flutter/.last_build_id
+
+# ==============================================================================
+# IDEs & Editors
+# ==============================================================================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+*.sublime-project
+*.sublime-workspace
+
+# ==============================================================================
+# Operating System
+# ==============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==============================================================================
+# Secrets & Environment
+# ==============================================================================
+.env
+*.env
+!.env.example
+
+# ==============================================================================
+# Miscellaneous & Temp Files
+# ==============================================================================
+*.log
+*.class
+*.pyc
+*.swp
+.history
+.svn/
+migrate_working_dir/
+app.*.symbols
+app.*.map.json
